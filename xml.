@@ -141,7 +141,7 @@
     <value>Who do you want to see?</value>
   </string>
   <string key="AskGuard">
-    <value>Who do you want to guard?</value>
+    <value>Who do you want to guard (for real)?</value>
   </string>
   <string key="AskEat">
     <value>Who do you want to eat?</value>
@@ -174,7 +174,7 @@
     <value>Congrats! You're the village drunk! (and really, everyone knows it...)</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>You are the Guardian Angel. Each night, you may choose a player to save.  However, if you choose a wolf, there is a 50% chance you will die.</value>
+    <value>You are Char. You ALWAYS say you are a Guardian Angel and no one ever believes you because it's fake. But oh noes, you're the real Guardian Angel! What are you going to say to make them believe you?</value>
   </string>
   <string key="RoleInfoGunner">
     <value>You are the gunner.  You have two bullets.  During the day, you may choose to shoot another player. Everyone will here the shots, and know you are the gunner (not a wolf).</value>
@@ -446,7 +446,7 @@
     <value>the Traitor 🖕</value>
   </string>
   <string key="GuardianAngel">
-    <value>the Guardian Angel 👼</value>
+    <value>Char 👼</value>
   </string>
   <string key="Detective">
     <value>the Detective 🕵</value>
@@ -689,7 +689,7 @@
   </string>
   <string key="GuardBlockedKiller">
     <!-- 0 - target's name -->
-    <value>You tried to collect {0}'s body for your collection, but you were fought off by the guardian angel! No kill for you tonight...</value>
+    <value>You tried to collect {0}'s body for your collection, but you were fought off by Char! Didn't expect that, eh?</value>
   </string>
   <string key="CultConvertHunter">
     <!-- 0 - Youngest Cultist's name -->
@@ -703,7 +703,7 @@
     <value>{0} sneaks over to {1}'s house, pops open the door, and is immediately greeted by a crazed maniac with a knife!!! {1} plunges the knife deep into {0}'s organs in alphabetical order, cackling the entire time! {0} is dead D:</value>
   </string>
   <string key="GuardKiller">
-    <value>You tried to guard the serial killer, but they came out and stabbed you 89 times! You are dead....</value>
+    <value>You tried to guard the serial killer, but they came out and stabbed you 89 times! Karma for always lying to be a Guardian Angel!</value>
   </string>
   <string key="HarlotFuckKiller">
     <!-- 0 - target's name -->
