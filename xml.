@@ -125,17 +125,17 @@
     <value>You see {0} is {1}!</value>
   </string>
   <string key="AskLynch">
-    <value>Who do you want to lynch?</value>
+    <value>Who do you want to lynch? Or rather...sabotage?</value>
   </string>
   <string key="AskDetect">
     <value>Who do you want to detect?</value>
   </string>
   <string key="AskShoot">
     <!-- 0 - bullet count -->
-    <value>Who do you want to shoot? {0} bullet(s) remain.</value>
+    <value>Who do you want to shoot? Shoot straight, for you only have {0} bullet(s)!</value>
   </string>
   <string key="AskVisit">
-    <value>Who do you want to visit?</value>
+    <value>Who do you want to spread your legs for??</value>
   </string>
   <string key="AskSee">
     <value>Who do you want to see?</value>
@@ -180,7 +180,7 @@
     <value>You are the gunner.  You have two bullets.  During the day, you may choose to shoot another player. Everyone will here the shots, and know you are the gunner (not a wolf).</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>You slut! You are the Harlot. During the night, you may choose to visit another player, to verify that they are not a wolf.  However--if you visit a wolf, or visit someone killed by the wolf, you will die.  If you do go to visit though, and the wolf tries to kill you at your home, you will survive.</value>
+    <value>You slut! You are Yanheng. Probably your most famous quote, "I spread my legs for the village." Well, you can spread it for all you like, but don't spread them to 'you know who'!</value>
   </string>
   <string key="RoleInfoTraitor">
     <value>Traitor! For now, you are a villager, but once all the wolves die, you will become a werewolf.  If the seer looks to you, you may or may not be identified as a wolf.</value>
@@ -195,7 +195,7 @@
     <value >You are a lowly villager, doomed to spend your days plowing a field and get eated.</value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >You are the tanner.  If you get lynched, you win automatically!</value>
+    <value >You are SSC. WHY YOU SO QUIET SIA?! So quiet that everyone is misled and attempts to sabotage you. Turns out, you sabotage them instead! That's just mean of you!</value>
   </string>
   <string key="RoleInfoWildChild" >
     <value >You are a wild child! Pick a player to be your 'role model' - if they die, you become a werewolf.</value>
@@ -293,26 +293,26 @@
     <value >Oh no! {0} was a drunk! Now you are drunk, and can't attack tomorrow night...</value>
   </string>
   <string key="GuardWolf" >
-    <value >You tried to guard a wolf! The wolf has eaten you.</value>
+    <value >You tried to guard a wolf! Now karma sets on you...</value>
   </string>
   <string key="GuardSaved" >
     <!-- 0 - saved player name -->
-    <value >You have saved {0}'s life!</value>
+    <value >You have saved {0}'s life! At least, you redeemed yourself!</value>
   </string>
   <string key="GuardNoAttack" >
     <!-- 0 - player name -->
-    <value >{0} was not attacked, so you didn't do much of anything.</value>
+    <value >{0} was not attacked, so you spent the whole night watching TV at home and munching on Pringles.</value>
   </string>
   <string key="GuardEmptyHouse">
     <!-- 0 - player name -->
-    <value>You went to guard {0}, but they weren't home!</value>
+    <value>You went to guard {0}, but no one was home! Wait, did you just take {0}'s chips?</value>
   </string>
   <string key="GuardSavedYou" >
-    <value >A guardian angel was watching over you last night and fought off an attacker!</value>
+    <value >The 'holy' Char was watching over you last night and fought off an attacker (for real)!</value>
   </string>
   <string key="HarlotEaten" >
     <!-- 0 - player name -->
-    <value >The harlot chose the wrong night to stay home. {0} has been eaten by the wolves!</value>
+    <value >Yanheng chose the wrong night to rest his legs. {0} has been eaten by the wolves! What a shame...</value>
   </string>
   <string key="HarlotNotHome" >
     <!-- 0 - player name -->
@@ -320,16 +320,16 @@
   </string>
   <string key="HarlotFuckWolf" >
     <!-- 0 - player name -->
-    <value >You slip into {0}'s house for a little fun, only to be confronted by a wolf. You are dead.</value>
+    <value >You slip into {0}'s house to spread your legs, only to be confronted by a wolf. Didn't I warn you about visiting them?</value>
   </string>
   <string key="HarlotFuckedWolfPublic" >
     <!-- 0 - player name -->
-    <value >{0} slipped into the wrong house last night! {0}'s slutty remains are found pinned to the church doors with an iron rod...  how sad :(</value>
+    <value >{0} slipped into the wrong house last night! {0}'s slutty legs are found pinned to the walls, and a message "The wolf was here!"</value>
   </string>
   <string key="HarlotFuckedVictimPublic" >
     <!-- 0 - harlot name -->
     <!-- 1 - victim name -->
-    <value >{0} slips into {1}'s house, ready to have a little fun to ease off the stress. Instead, {0} finds a werewolf eating {1}!  The werewolf quickly turns on {0} and jumps...  {0} is dead.</value>
+    <value >{0} slips into {1}'s house, ready to spread their legs. Instead, {0} finds a werewolf eating {1}! {0} runs out of the house as fast as their legs could carry him, but their legs were too sore from previous nights' spreadings. {0} falls, unable to run and the werewolf  pounces on them. What a pity!</value>
   </string>
   <string key="HarlotVisitNonWolf" >
     <!-- 0 - target name -->
