@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<! Werewolf for Telegram: This version is dedicated to our beloved Simi members using inside jokes and player personalities, and at the same time remember our previous members with everyone.-->
+<! Created by Crispy Potato (@nomzpotato) with the help of Straw, Roti, Risa, Darryl and Char.-->
+<! Creator's note: This pack may not be accepted or used, but I would like to thank each and every one of you for helping out with this, and believing in me. Ultimately, what I will want to do is to complete this script and that everyone enjoys the process of making this.-->
 <strings>
-  <language name="English" base="English" variant="Normal" owner="Para949"/>
+  <language name="English - Werewolf SG (Simi 狼?)" base="English" variant="SG Simi 狼? version"
   <string key="NotInGame" deprecated="true">
     <value>You don't appear to be in any games right now...</value>
   </string>
@@ -135,7 +138,7 @@
     <value>Who do you want to shoot? Shoot straight, for you only have {0} bullet(s)!</value>
   </string>
   <string key="AskVisit">
-    <value>Who do you want to spread your legs for??</value>
+    <value>Who do you want to spread your legs for?</value>
   </string>
   <string key="AskSee">
     <value>Who do you want to see?</value>
