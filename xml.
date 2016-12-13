@@ -183,7 +183,7 @@
     <value>You are the gunner.  You have two bullets.  During the day, you may choose to shoot another player. Everyone will here the shots, and know you are the gunner (not a wolf).</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>You slut! You are Yanheng. Probably your most famous quote, "I spread my legs for the village." Well, you can spread it for all you like, but don't spread them to 'you know who'!</value>
+    <value>You slut! You are Cremè Buleè. Probably your most famous quote, "I spread my legs for the village." Well, you can spread it for all you like, but don't spread them to 'you know who'!</value>
   </string>
   <string key="RoleInfoTraitor">
     <value>Traitor! For now, you are a villager, but once all the wolves die, you will become a werewolf.  If the seer looks to you, you may or may not be identified as a wolf.</value>
@@ -236,7 +236,7 @@
     <value >The villagers have cast their votes, amid doubts and suspicions. {0} is dead. {1}</value>
   </string>
   <string key="LynchTie" >
-    <value >Unable to come up with a proper decision on who to lynch, the mob returns to their homes for the night, frustrated...</value>
+    <value >Unable to come up with a proper decision on who to lynch, everyone heads home, still muttering the names of who they decided to lynch, but were still unable to do anything. </value>
   </string>
   <string key="NoLynchVotes" >
     <value >Something is fishy, for no one voted!  No lynch mob tonight...</value>
