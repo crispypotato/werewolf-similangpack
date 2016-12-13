@@ -518,7 +518,7 @@
   </string>
   <string key="GuardBlockedWolf">
     <!-- 0 - target's name -->
-    <value>The pack heads to {0}'s house to eat them, but they are met by Char. "Back off! I'm the Guardian Angel!" they growl through a mouth full of chips. .</value>
+    <value>The pack heads to {0}'s house to eat them, but they are met by Char. "Back off! I'm the Guardian Angel, for real! " they growl through a mouth full of chips. Seeing this, the pack scurries off and into their den.</value>
   </string>
   <!-- new strings May 9 2016-->
   <string key="CultUnableToConvert">
